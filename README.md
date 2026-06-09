@@ -62,13 +62,6 @@ Alongside the platform, I create technical content on YouTube and TikTok under t
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhurtel-manish16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhurtel-manish16&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=bhurtel-manish16&theme=tokyonight&hide_border=true)
 
 </div>
