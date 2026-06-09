@@ -27,7 +27,6 @@ Alongside the platform, I create technical content on YouTube and TikTok under t
 | Project | Stack | Status |
 |---|---|---|
 | [CodeWithBhurtel](https://codewithbhurtel.com) | Next.js, Supabase, Tailwind CSS | Live |
-| K-12 LMS Platform | FastAPI, React (Vite), Supabase, Claude AI | In Progress |
 | Live Challenge Arena | Next.js, Supabase Realtime | In Progress |
 
 ---
